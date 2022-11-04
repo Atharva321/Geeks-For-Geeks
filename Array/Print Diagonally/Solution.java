@@ -41,14 +41,18 @@ class Solution{
         int row = 0, column = 0;
         ArrayList<Integer> ans = new ArrayList<>();
         //upper
+        //In upper half diagoanal gap is due to column
         for(int gapColumn = 0; gapColumn < A[0].length; gapColumn++){
+            //we have to stop at the first column
             for(row = 0, column = gapColumn; column >= 0; row++,column--){
                 ans.add(A[row][column]);
             }
         }
         
         //lower
+        //In lower half diagoanal gap is due row
         for(int gapRow = 1; gapRow < A.length; gapRow++){
+            //we have to stop at the last row
             for(row = gapRow, column = A[0].length-1; row <= A.length - 1; row++,column--){
                 ans.add(A[row][column]);
             }

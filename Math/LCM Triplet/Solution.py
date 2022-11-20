@@ -3,6 +3,8 @@
 class Solution:
     def lcmTriplets(self,N):
         #code here
+        
+        #Divisible by 2
         if N<=2:
             return N
         elif N%2!=0:

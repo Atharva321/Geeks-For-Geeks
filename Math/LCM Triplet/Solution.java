@@ -26,22 +26,22 @@ class Solution {
         // code here
         
         //if num is less than or equal to 2 then obviously its
-        //the required number
+        //the required number.
         if(N<=2){
             return N;
         }
         
-        //if num is odd
+        //if num is odd.
         else if(N%2!=0){
             return (N-1)*N*(N-2);
         }
         
-        //if num is even
+        //if num is even.
         else if(N%2==0 && N % 3!=0){
             return N*(N-1)*(N-3);
         }
           
-        //if num is divisible by 6
+        //if num is divisible by 6.
         return (N-1)*(N-2)*(N-3);
         
     }

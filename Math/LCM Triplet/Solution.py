@@ -15,6 +15,8 @@ class Solution:
         #Only divisible by 2 and not 3
         elif N%2==0 and N % 3!=0:
             return N*(N-1)*(N-3)
+        
+        #Divisible by both 2 and 3
         elif(N%2==0 and N%3==0): 
             return (N-1)*(N-2)*(N-3);
 

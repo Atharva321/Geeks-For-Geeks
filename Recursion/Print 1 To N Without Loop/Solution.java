@@ -1,3 +1,8 @@
+/*
+Time Complexity : O(n).
+Space Complexity: O(n).
+*/
+
 //{ Driver Code Starts
 //Initial Template for Java
 

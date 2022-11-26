@@ -33,6 +33,7 @@ class GFG
             currentPosition++;
         }
         
+        //Handling last element.
         while (last.next != null)
             last = last.next;
         last.next = curr;

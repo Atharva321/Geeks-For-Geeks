@@ -16,6 +16,7 @@ class Solution
         Node first = head, second = head.next, third = head.next.next;
         first.next = null;
     
+        //Using two pointers method.
         while(third!=null){
             second.next = first;
             first  = second;

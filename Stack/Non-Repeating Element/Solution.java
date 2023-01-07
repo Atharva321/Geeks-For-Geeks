@@ -42,8 +42,8 @@ class GFG {
 //User function Template for Java
 
 class Check{
-  
-    
+    // Time  : O(n)
+    // Space : O(2n) ~ O(n)
     public int firstNonRepeating(int arr[], int n) 
     { 
         // Complete the function

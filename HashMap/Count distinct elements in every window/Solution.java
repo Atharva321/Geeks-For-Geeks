@@ -35,6 +35,8 @@ class Solution
     ArrayList<Integer> countDistinct(int arr[], int n, int k)
     {
         // code here 
+        // Time  : O(n)
+        // Space : O(k)
         ArrayList<Integer> distinctElements = new ArrayList<>();
 
         if(k>n) return distinctElements;

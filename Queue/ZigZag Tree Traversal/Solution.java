@@ -124,6 +124,8 @@ public class GFG2
 class GFG
 {
     //Function to store the zig zag order traversal of tree in a list.
+	// Time  : O(n)
+	// Space : O(n)
 	ArrayList<Integer> zigZagTraversal(Node root)
 	{
 	    //Add your code here.

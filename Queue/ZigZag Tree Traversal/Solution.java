@@ -129,7 +129,7 @@ class GFG
 	    //Add your code here.
 	    Queue<Node> q = new LinkedList<>();
         ArrayList<Integer> ans = new ArrayList<>();
-        q.add(root);
+       	q.add(root);
         int currLevel = 0;
         while(!q.isEmpty()){
             ArrayList<Integer> level = new ArrayList<>();

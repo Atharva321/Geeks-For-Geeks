@@ -28,7 +28,8 @@ class GFG {
 
 //User function Template for Java
 
-
+// Time  :  O(n)
+// Space :  O(1)
 class Solution {
     public int lastIndex(String s) {
         int n = s.length();

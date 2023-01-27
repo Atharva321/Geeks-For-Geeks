@@ -109,6 +109,10 @@ class Node {
         left = right = null;
     }
 } */
+
+// Time  : O(n)
+// Space : O(n)
+
 class Tree
 {
     // Return a list containing the Preorder traversal of the given tree

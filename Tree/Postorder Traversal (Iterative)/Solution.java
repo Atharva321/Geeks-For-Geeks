@@ -113,6 +113,10 @@ class Node{
     }
 }
 */
+
+// Time  : O(n)
+// Space : O(n)
+
 class Tree {
     ArrayList<Integer> postOrder(Node node) {
         // code here

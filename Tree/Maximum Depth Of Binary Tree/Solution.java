@@ -107,8 +107,8 @@ class Node
 }
 */
 
-// Time  :
-// Space : 
+// Time  : O(n)
+// Space : O(n)
 
 class Solution {
   public static int maxDepth(Node root) {

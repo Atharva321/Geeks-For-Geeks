@@ -106,6 +106,10 @@ class Node
     }
 }
 */
+
+// Time  :
+// Space : 
+
 class Solution {
   public static int maxDepth(Node root) {
     // code here

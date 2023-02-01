@@ -94,6 +94,9 @@ class GFG
 
 //User function Template for Java
 
+// Time  :
+// Space :
+
 class Solution
 {
     int pathsWithSumK = 0;

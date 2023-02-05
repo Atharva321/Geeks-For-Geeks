@@ -1,7 +1,7 @@
 //{ Driver Code Starts
 
-// Time  :
-// Space :
+// Time  : O(n+m)
+// Space : O(1)
 
 /* Node of a linked list
  class Node {

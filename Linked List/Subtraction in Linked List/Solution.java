@@ -89,6 +89,9 @@ Subtract character by character while handling the carry.  Read  Resource
 Remove Leading Zeroes from the answer.
 Convert the answer string into the LinkedList.
 
+// Time  : O(n)
+// Space : O(1)
+
 */
 class Solution
 {

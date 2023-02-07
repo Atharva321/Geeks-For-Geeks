@@ -93,8 +93,8 @@ class Node
  }
 */
 
-// Time  : 
-// Space : 
+// Time  : O(n)
+// Space : O(n)
 
 class Solution
 {

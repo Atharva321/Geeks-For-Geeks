@@ -1,3 +1,6 @@
+// Time  : O(1)
+// Space : O(1)
+
 class Solution {
     static int maximizeMoney(int N , int K) {
         // code here

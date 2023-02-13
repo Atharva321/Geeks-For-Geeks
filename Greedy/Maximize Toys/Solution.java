@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(1)
+
 class Solution{
     static int toyCount(int N, int K, int arr[])
     {

@@ -1,4 +1,6 @@
 # User function Template for python3
+// Time  : O(n)
+// Space : O(n)
 
 class Solution:
     

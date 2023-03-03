@@ -2,6 +2,38 @@
 // Space : O(n)
 import java.util.*;
 
+class StackUsingQueues
+{
+	public static void main(String args[])
+	{
+		Scanner sc = new Scanner(System.in);
+		int t = sc.nextInt();
+		while(t>0)
+		{
+			Queues g = new Queues();
+
+			int q = sc.nextInt();
+			while(q>0)
+			{
+				int QueryType = sc.nextInt();
+				if(QueryType == 1)
+				{
+					int a = sc.nextInt();
+					g.push(a);
+				}
+				else if(QueryType == 2)
+				System.out.print(g.pop()+" ");
+			q--;
+			}	
+			System.out.println();
+
+
+
+		t--;
+		}
+	}
+}
+
 // queue
 // q.add() 1 2 3
 // q.peek(); 1 2 3

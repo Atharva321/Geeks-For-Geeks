@@ -1,5 +1,5 @@
 // Time  : O(n)
-// Space : O(n)
+// Space : O(n/2) ~ O(n)
 
 class Solution
 {

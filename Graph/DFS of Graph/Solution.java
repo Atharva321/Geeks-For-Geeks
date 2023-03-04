@@ -1,5 +1,5 @@
 // Time  : O(V+E)
-// Space : O(V+E)
+// Space : O(1) [Recursive Stack]
 
 import java.util.*;
 import java.lang.*;

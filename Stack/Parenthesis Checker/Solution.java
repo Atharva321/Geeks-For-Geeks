@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(n)
+
 class Solution
 {
     //Function to check if brackets are balanced or not.

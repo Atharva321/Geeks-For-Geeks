@@ -1,3 +1,6 @@
+// Time  :
+// Space :
+
 class Solution{
 	Node nextRight(Node root, int key)
     {

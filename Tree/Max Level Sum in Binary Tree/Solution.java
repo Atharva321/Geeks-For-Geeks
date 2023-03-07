@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(n)
+
 class Solution {
     public int maxLevelSum(Node root) {
         // add code here.

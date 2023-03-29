@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(1)
+
 class Tree
 {
     //Function to return a list containing the postorder traversal of the tree.

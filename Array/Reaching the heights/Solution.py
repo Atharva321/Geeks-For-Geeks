@@ -1,5 +1,5 @@
 # Time  : O(n)
-# Space : O(1)
+# Space : O(n)
 
 def reaching_height (n, arr) : 
     #Complete the function

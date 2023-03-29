@@ -1,3 +1,6 @@
+# Time  : O(1)
+# Space : O(1)
+
 def reaching_height (n, arr) : 
     #Complete the function
    if(n==1):

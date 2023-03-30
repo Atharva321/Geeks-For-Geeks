@@ -1,3 +1,6 @@
+// Time  :
+// Space :
+
 class Solution 
 { 
     String firstRepChar(String s) 

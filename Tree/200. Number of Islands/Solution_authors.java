@@ -1,14 +1,6 @@
-//{ Driver Code Starts
-//Initial Template for Java
-
 import java.io.*;
 import java.util.*;
 import java.lang.*;
-
-// } Driver Code Ends
-
-
-//User function Template for Java
 
 class Solution{
 	Node nextRight(Node root, int key)

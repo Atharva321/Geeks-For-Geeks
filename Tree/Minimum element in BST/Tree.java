@@ -1,5 +1,5 @@
 // Time  : O(n)
-// Space :
+// Space : O(n)
 
 class Tree {
     // Function to find the minimum element in the given BST.

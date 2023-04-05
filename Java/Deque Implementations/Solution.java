@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(n)
+
 public static void push_back_pb(ArrayDeque<Integer> dq, int x) {
     // Your code here
     dq.addLast(x);

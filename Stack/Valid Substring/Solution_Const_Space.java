@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(1)
+
 //User function Template for Java
 class Solution {
     static int findMaxLen(String S) {

@@ -1,3 +1,6 @@
+// Time  : 
+// Space :
+
 class StackQueue
 {
     Stack<Integer> s1 = new Stack<Integer>();

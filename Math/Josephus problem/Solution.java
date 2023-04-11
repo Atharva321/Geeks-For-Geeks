@@ -1,5 +1,5 @@
 // Time  : O(1)
-// Space :
+// Space : O(1)
 class Solution
 {
    public int josephus(int n, int k)

@@ -1,4 +1,5 @@
-// Time :
+// Time  :
+// Space :
 class Solution
 {
    public int josephus(int n, int k)

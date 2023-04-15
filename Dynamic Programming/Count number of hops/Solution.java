@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(1)
+
 class Solution
 {
     //Function to count the number of ways in which frog can reach the top.

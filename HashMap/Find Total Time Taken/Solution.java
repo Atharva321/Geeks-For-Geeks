@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(n)
+
 class Solution
 {
     public static long totalTime(int n,int arr[],int time[])

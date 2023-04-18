@@ -1,3 +1,5 @@
+
+
 class Solution{
     public int totalWays(int n, int[] capacity) {
         // code here

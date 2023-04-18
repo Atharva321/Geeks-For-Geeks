@@ -1,3 +1,5 @@
+// Time  : O(n)
+
 class GfG
 {
     public int remAnagrams(String str1,String str2)

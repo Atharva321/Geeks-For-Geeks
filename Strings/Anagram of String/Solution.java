@@ -16,6 +16,7 @@ class GfG
         {
             count2[str2.charAt(i)-'a']++;
         }
+        
         int chars=0;
         for(int i=0;i<26;i++)
         {

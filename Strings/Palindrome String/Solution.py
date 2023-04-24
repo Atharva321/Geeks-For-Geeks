@@ -1,3 +1,6 @@
+# Time  : O(1)
+# Space : O(1)
+
 #User function Template for python3
 class Solution:
 	def isPalindrome(self, S):

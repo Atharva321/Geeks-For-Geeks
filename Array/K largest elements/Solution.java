@@ -1,5 +1,5 @@
 Time  : O(nlogn)
-Space :
+Space : O(k)
 
 //{ Driver Code Starts
 //Initial Template for Java

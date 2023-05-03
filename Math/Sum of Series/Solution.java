@@ -1,3 +1,6 @@
+// Time  : O(1)
+// Space : O(1)
+
 //{ Driver Code Starts
 // Initial Template for Java
 

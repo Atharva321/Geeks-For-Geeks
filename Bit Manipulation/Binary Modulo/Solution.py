@@ -1,3 +1,6 @@
+# Time  :
+# Space :
+
 class Solution():
     def modulo(self, s, m):
         #your code goes here

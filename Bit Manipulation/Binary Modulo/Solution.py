@@ -1,5 +1,5 @@
 # Time  : O(1)
-# Space : 
+# Space : O(n)
 
 class Solution():
     def modulo(self, s, m):

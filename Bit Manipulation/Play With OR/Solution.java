@@ -1,3 +1,6 @@
+// Time  :
+// Space :
+
 class Complete{
     // Function for finding maximum and value pair
     public static int[] game_with_number (int arr[], int n) {

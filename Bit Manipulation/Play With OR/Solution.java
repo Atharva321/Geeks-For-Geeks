@@ -1,5 +1,5 @@
-// Time  :
-// Space :
+// Time  : O(n)
+// Space : O(1)
 
 class Complete{
     // Function for finding maximum and value pair

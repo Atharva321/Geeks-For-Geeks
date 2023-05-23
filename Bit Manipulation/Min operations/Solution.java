@@ -1,4 +1,6 @@
-//{ Driver Code Starts
+// Time  : O(1)
+// Space : O(1)
+
 import java.io.*;
 import java.util.*;
 
@@ -6,9 +8,6 @@ import java.util.*;
 5  : 0101
 12 : 1100
 */
-
-// Time  : O(1)
-// Space : O(1)
 
 class Solution {
     public static int solve(int a, int b) {

@@ -1,5 +1,5 @@
-# Time  :
-# Space :
+# Time  : O(n)
+# Space : O(1)
 
 #User function Template for python3
 '''

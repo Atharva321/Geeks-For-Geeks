@@ -1,3 +1,6 @@
+# Time  :
+# Space :
+
 #User function Template for python3
 '''
 	Your task is to return the data stored in

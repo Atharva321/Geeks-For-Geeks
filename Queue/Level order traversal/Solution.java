@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(n)
+
 //{ Driver Code Starts
 //Initial Template for Java
 
@@ -125,8 +128,6 @@ class Node
 }
 */
 
-// Time  : O(n)
-// Space : O(n)
 class Solution
 {
     //Function to return the level order traversal of a tree.

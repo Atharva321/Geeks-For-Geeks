@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(1)
+
 //{ Driver Code Starts
 import java.util.*;
 import java.io.*;

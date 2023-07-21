@@ -1,3 +1,6 @@
+// Time  : O(n^2)
+// Space : O(n)
+
 class Solution{
     public int NumberofLIS(int N, int nums[]){
         // Code here

@@ -1,3 +1,6 @@
+// Time  : O(logn)
+// Space :
+
 class Spiral
 {
     //Function to return a list containing the level order 

@@ -1,5 +1,5 @@
-// Time  : O(logn)
-// Space :
+// Time  : O(n)
+// Space : O(n)
 
 class Spiral
 {

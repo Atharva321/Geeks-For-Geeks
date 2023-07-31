@@ -1,5 +1,5 @@
 // Time  : O(V + E)
-// Space : O(V + E)
+// Space : O(V)
 
 class Solution {
     // Function to return Breadth First Traversal of given graph.

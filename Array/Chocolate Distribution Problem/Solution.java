@@ -1,3 +1,6 @@
+// Time  : O(nlogn)
+// Space : O(1)
+
 class Solution
 {
     public long findMinDiff (ArrayList<Integer> a, int n, int m)

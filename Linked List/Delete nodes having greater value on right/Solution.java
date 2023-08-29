@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(1)
+
 class Solution {
     public Node reverse(Node head) {
         Node current = head;

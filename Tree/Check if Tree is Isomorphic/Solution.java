@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(h)
+
 class Solution  
 { 
     // Return True if the given trees are isomotphic. Else return False.

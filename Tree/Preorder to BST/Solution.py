@@ -1,3 +1,6 @@
+# Time  : O(n)
+# Space : O(h)
+
 #User function Template for python3
 
 class Node:

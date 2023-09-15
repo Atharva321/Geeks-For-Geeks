@@ -1,3 +1,11 @@
+/**
+ * Time Complexity: O(2^n), where n is the number of elements in the 'numbers' array. 
+ *  In the worst case, the function explores all possible subsets of the input array.
+ *
+ * Space Complexity: O(n), due to the recursive call stack.
+**/
+
+
 class Solution{
     
     public static boolean isPossibleToPartitionEqually(int targetSum, int[] numbers, int currentIndex) {

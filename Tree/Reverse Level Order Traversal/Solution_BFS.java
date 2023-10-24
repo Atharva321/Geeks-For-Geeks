@@ -1,4 +1,4 @@
-// Time  : O(n)
+// Time  : O(height(Tree))
 // Space : O(n)
 
 class Tree

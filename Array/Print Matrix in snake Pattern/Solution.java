@@ -1,3 +1,6 @@
+// Time  : O(n*n)
+// Space : O(n*n) ~ O(1) [Default Array to Store final result]
+
 class Solution
 {
     //Function to return list of integers visited in snake pattern in matrix.

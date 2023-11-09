@@ -1,3 +1,6 @@
+// Time  : O(n*n)
+// Space : O(1)
+
 class Solution
 {
     int columnWithMaxZeros(int arr[][], int N)

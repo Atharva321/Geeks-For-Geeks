@@ -1,3 +1,6 @@
+// Time  : O(V)
+// Space : O(1)
+
 class Solution {
     int sumOfDependencies(ArrayList<ArrayList<Integer>> adj, int V) {
         // code here

@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(h)
+
 class Solution
 {
     boolean check(Node root)

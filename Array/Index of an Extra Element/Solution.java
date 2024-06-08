@@ -1,3 +1,6 @@
+// Time  : O(n)
+// Space : O(1)
+
 class Solution {
     public int findExtra(int n, int arr1[], int arr2[]) {
         // add code here.
